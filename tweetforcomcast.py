@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 ###########################
-# Author is anonymous, however, it is not me ;-)
+# Author is anonymous, however, it is not me ;-) Author preferred his name not to be associated with this.
 ###########################
 import os
 import sys
