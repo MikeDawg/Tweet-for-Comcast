@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 ###########################
-# This script was originally written by Reddit User AlekseyP ( https://www.reddit.com/user/AlekseyP )
+# Author is anonymous, however, it is not me ;-)
 ###########################
 import os
 import sys
